@@ -1,0 +1,56 @@
+[
+  {
+    "model": "questions.answers",
+    "pk": 1,
+    "fields": {
+      "question": 1,
+      "answer": "Si",
+      "points": 5
+    }
+  },
+  {
+    "model": "questions.answers",
+    "pk": 2,
+    "fields": {
+      "question": 1,
+      "answer": "No",
+      "points": 0
+    }
+  },
+  {
+    "model": "questions.answers",
+    "pk": 3,
+    "fields": {
+      "question": 2,
+      "answer": "Si",
+      "points": 0
+    }
+  },
+  {
+    "model": "questions.answers",
+    "pk": 4,
+    "fields": {
+      "question": 2,
+      "answer": "No",
+      "points": 10
+    }
+  },
+  {
+    "model": "questions.answers",
+    "pk": 5,
+    "fields": {
+      "question": 3,
+      "answer": "Si",
+      "points": 5
+    }
+  },
+  {
+    "model": "questions.answers",
+    "pk": 6,
+    "fields": {
+      "question": 3,
+      "answer": "No",
+      "points": 0
+    }
+  }
+]
